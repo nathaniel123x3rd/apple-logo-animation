@@ -46,6 +46,7 @@ body {
   overflow: hidden;
   border-bottom: 1px solid #fff;
   transition: 1.5s;
+  color: #fff;
 }
 .logo span:hover::before {
   height: 100%;
