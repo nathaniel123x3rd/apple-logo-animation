@@ -34,7 +34,7 @@ body {
 }
 .logo span::before {
   content: '\f179';
-  font-family: fontAwesome;
+  font-family: 'Font Awesome';
   position: absolute;
   top: -4px;
   left: 0;
